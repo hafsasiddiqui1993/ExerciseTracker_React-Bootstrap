@@ -11,3 +11,4 @@ For UI of my project.
 7-Work accordingly to provided tasks. Made Homepage, by using components on chunks
 8-Created Member Signin page
 9-Use React-Router-Dom and linked Homepage to it
+10-Created pages for public routes
