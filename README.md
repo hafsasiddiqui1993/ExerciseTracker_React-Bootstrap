@@ -11,4 +11,7 @@ For UI of my project.
 7-Work accordingly to provided tasks. Made Homepage, by using components on chunks
 8-Created Member Signin page
 9-Use React-Router-Dom and linked Homepage to it
-10-Created pages for public routes
+10-Created pages for public routes (MemberSignup, Sigin, AdminSignin) -> By using UseState
+11-Created page for private route (Exercise Activity Form)
+12- Created Modals, diplayed over Homepage(Exercise Activities Section)
+13-React Router created and linked pages accordingly.
